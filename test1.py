@@ -1,1 +1,1 @@
-prin("Wassup Buddy!! I am Samir Don no 1")
+print ("Wassup Buddy!! I am Samir Don no 1")
